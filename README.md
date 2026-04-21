@@ -12,6 +12,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Megha706765/Leetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Megha706765/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
@@ -24,6 +25,7 @@
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Megha706765/Leetcode/tree/master/0202-happy-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Megha706765/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Megha706765/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Sorting
@@ -46,4 +48,5 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Megha706765/Leetcode/tree/master/0041-first-missing-positive) |
+| [0202-happy-number](https://github.com/Megha706765/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
