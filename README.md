@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Megha706765/Leetcode/tree/master/0041-first-missing-positive) |
+| [0136-single-number](https://github.com/Megha706765/Leetcode/tree/master/0136-single-number) |
 | [0164-maximum-gap](https://github.com/Megha706765/Leetcode/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/Megha706765/Leetcode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/Megha706765/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -23,6 +24,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Megha706765/Leetcode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Megha706765/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/Megha706765/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Math
