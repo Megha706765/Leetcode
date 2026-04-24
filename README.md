@@ -37,6 +37,7 @@
 | [0268-missing-number](https://github.com/Megha706765/Leetcode/tree/master/0268-missing-number) |
 | [1952-three-divisors](https://github.com/Megha706765/Leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Megha706765/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/Megha706765/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Megha706765/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Sorting
 |  |
@@ -94,4 +95,8 @@
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/Megha706765/Leetcode/tree/master/1952-three-divisors) |
+## Geometry
+|  |
+| ------- |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/Megha706765/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
