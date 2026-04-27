@@ -10,6 +10,7 @@
 | [0217-contains-duplicate](https://github.com/Megha706765/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Megha706765/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Megha706765/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0724-find-pivot-index](https://github.com/Megha706765/Leetcode/tree/master/0724-find-pivot-index) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Megha706765/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Megha706765/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Megha706765/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -99,4 +100,8 @@
 |  |
 | ------- |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Megha706765/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Megha706765/Leetcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
