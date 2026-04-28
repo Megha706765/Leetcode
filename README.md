@@ -41,6 +41,7 @@
 | [1952-three-divisors](https://github.com/Megha706765/Leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Megha706765/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Megha706765/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+| [2769-find-the-maximum-achievable-number](https://github.com/Megha706765/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Megha706765/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Sorting
 |  |
