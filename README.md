@@ -26,6 +26,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/Megha706765/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Megha706765/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0441-arranging-coins](https://github.com/Megha706765/Leetcode/tree/master/0441-arranging-coins) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 | ------- |
 | [0202-happy-number](https://github.com/Megha706765/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Megha706765/Leetcode/tree/master/0268-missing-number) |
+| [0441-arranging-coins](https://github.com/Megha706765/Leetcode/tree/master/0441-arranging-coins) |
 | [1952-three-divisors](https://github.com/Megha706765/Leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Megha706765/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Megha706765/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
