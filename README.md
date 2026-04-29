@@ -43,6 +43,7 @@
 | [2119-a-number-after-a-double-reversal](https://github.com/Megha706765/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Megha706765/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Megha706765/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
+| [3099-harshad-number](https://github.com/Megha706765/Leetcode/tree/master/3099-harshad-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Megha706765/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Sorting
 |  |
