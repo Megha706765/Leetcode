@@ -45,6 +45,7 @@
 | [2769-find-the-maximum-achievable-number](https://github.com/Megha706765/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3099-harshad-number](https://github.com/Megha706765/Leetcode/tree/master/3099-harshad-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Megha706765/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Megha706765/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Sorting
 |  |
 | ------- |
