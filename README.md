@@ -7,6 +7,7 @@
 | [0041-first-missing-positive](https://github.com/Megha706765/Leetcode/tree/master/0041-first-missing-positive) |
 | [0136-single-number](https://github.com/Megha706765/Leetcode/tree/master/0136-single-number) |
 | [0164-maximum-gap](https://github.com/Megha706765/Leetcode/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/Megha706765/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Megha706765/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Megha706765/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Megha706765/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Megha706765/Leetcode/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/Megha706765/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Megha706765/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Megha706765/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Megha706765/Leetcode/tree/master/0268-missing-number) |
@@ -73,6 +75,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Megha706765/Leetcode/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/Megha706765/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Megha706765/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Megha706765/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Megha706765/Leetcode/tree/master/0242-valid-anagram) |
@@ -87,6 +90,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Megha706765/Leetcode/tree/master/0169-majority-element) |
 | [2351-first-letter-to-appear-twice](https://github.com/Megha706765/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Greedy
 |  |
@@ -114,4 +118,8 @@
 | [0724-find-pivot-index](https://github.com/Megha706765/Leetcode/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/Megha706765/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/Megha706765/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Megha706765/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
