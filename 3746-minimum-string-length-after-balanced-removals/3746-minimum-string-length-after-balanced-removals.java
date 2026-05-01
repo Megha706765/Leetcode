@@ -1,16 +1,12 @@
-// loop
-
 class Solution {
     public int minLengthAfterRemovals(String s) {
-        int ac= 0;
-        int bc = 0;
-        for(int i = 0; i<s.length(); i++){
-            if(s.charAt(i) == 'a'){
-                ac++;
-            }else{
-                bc++;
-            }
+        int countA = 0;
+        int countB = 0;
+        for(int i=0; i<s.length(); i++){
+            char ch = s.charAt(i);
+            if(ch == 'a') countA++;
+            else countB++;
         }
-        return Math.abs(ac-bc);
+        return Math.abs(countA-countB);
     }
 }
