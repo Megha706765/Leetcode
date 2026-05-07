@@ -19,6 +19,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/Megha706765/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Megha706765/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Megha706765/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3866-first-unique-even-element](https://github.com/Megha706765/Leetcode/tree/master/3866-first-unique-even-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -87,6 +88,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/Megha706765/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/Megha706765/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Megha706765/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3866-first-unique-even-element](https://github.com/Megha706765/Leetcode/tree/master/3866-first-unique-even-element) |
 ## String
 |  |
 | ------- |
@@ -101,6 +103,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/Megha706765/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/Megha706765/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Megha706765/Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
+| [3866-first-unique-even-element](https://github.com/Megha706765/Leetcode/tree/master/3866-first-unique-even-element) |
 ## Greedy
 |  |
 | ------- |
