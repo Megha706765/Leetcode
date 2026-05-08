@@ -7,6 +7,7 @@
 | [0041-first-missing-positive](https://github.com/Megha706765/Leetcode/tree/master/0041-first-missing-positive) |
 | [0136-single-number](https://github.com/Megha706765/Leetcode/tree/master/0136-single-number) |
 | [0164-maximum-gap](https://github.com/Megha706765/Leetcode/tree/master/0164-maximum-gap) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Megha706765/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Megha706765/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Megha706765/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Megha706765/Leetcode/tree/master/0229-majority-element-ii) |
@@ -23,11 +24,13 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Megha706765/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Megha706765/Leetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Megha706765/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Megha706765/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Megha706765/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Megha706765/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0441-arranging-coins](https://github.com/Megha706765/Leetcode/tree/master/0441-arranging-coins) |
