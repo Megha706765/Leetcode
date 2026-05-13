@@ -51,6 +51,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Megha706765/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Megha706765/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Megha706765/Leetcode/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/Megha706765/Leetcode/tree/master/0441-arranging-coins) |
@@ -157,4 +158,12 @@
 |  |
 | ------- |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Megha706765/Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Megha706765/Leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Megha706765/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
