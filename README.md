@@ -40,6 +40,7 @@
 | [0268-missing-number](https://github.com/Megha706765/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Megha706765/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/Megha706765/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/Megha706765/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Megha706765/Leetcode/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/Megha706765/Leetcode/tree/master/0704-binary-search) |
 ## Bit Manipulation
@@ -170,4 +171,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Megha706765/Leetcode/tree/master/0070-climbing-stairs) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Megha706765/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
