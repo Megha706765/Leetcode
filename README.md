@@ -24,6 +24,7 @@
 | [1732-find-the-highest-altitude](https://github.com/Megha706765/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Megha706765/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Megha706765/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Megha706765/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Megha706765/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Megha706765/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3866-first-unique-even-element](https://github.com/Megha706765/Leetcode/tree/master/3866-first-unique-even-element) |
@@ -48,6 +49,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/Megha706765/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Megha706765/Leetcode/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/Megha706765/Leetcode/tree/master/0704-binary-search) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Megha706765/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -87,6 +89,7 @@
 | [0389-find-the-difference](https://github.com/Megha706765/Leetcode/tree/master/0389-find-the-difference) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Megha706765/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/Megha706765/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Megha706765/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Megha706765/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Bucket Sort
 |  |
