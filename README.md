@@ -23,6 +23,7 @@
 | [0905-sort-array-by-parity](https://github.com/Megha706765/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Megha706765/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/Megha706765/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1929-concatenation-of-array](https://github.com/Megha706765/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Megha706765/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Megha706765/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Megha706765/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -149,6 +150,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/Megha706765/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Megha706765/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Enumeration
 |  |
