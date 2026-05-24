@@ -31,6 +31,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Megha706765/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Megha706765/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Megha706765/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Megha706765/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Megha706765/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3866-first-unique-even-element](https://github.com/Megha706765/Leetcode/tree/master/3866-first-unique-even-element) |
 ## Two Pointers
@@ -82,6 +83,7 @@
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Megha706765/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Megha706765/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3099-harshad-number](https://github.com/Megha706765/Leetcode/tree/master/3099-harshad-number) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Megha706765/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Megha706765/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Megha706765/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Sorting
