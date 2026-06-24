@@ -135,6 +135,7 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Megha706765/Leetcode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Megha706765/Leetcode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Megha706765/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Megha706765/Leetcode/tree/master/0389-find-the-difference) |
@@ -191,6 +192,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Megha706765/Leetcode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Megha706765/Leetcode/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -201,4 +203,8 @@
 | ------- |
 | [0278-first-bad-version](https://github.com/Megha706765/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Megha706765/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Megha706765/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
