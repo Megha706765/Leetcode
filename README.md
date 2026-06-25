@@ -78,6 +78,7 @@
 | [0367-valid-perfect-square](https://github.com/Megha706765/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Megha706765/Leetcode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Megha706765/Leetcode/tree/master/0507-perfect-number) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/Megha706765/Leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1952-three-divisors](https://github.com/Megha706765/Leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Megha706765/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Megha706765/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
@@ -140,6 +141,7 @@
 | [0058-length-of-last-word](https://github.com/Megha706765/Leetcode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Megha706765/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Megha706765/Leetcode/tree/master/0389-find-the-difference) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/Megha706765/Leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [2351-first-letter-to-appear-twice](https://github.com/Megha706765/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Megha706765/Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Counting
