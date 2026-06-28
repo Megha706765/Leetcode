@@ -23,6 +23,7 @@
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Megha706765/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/Megha706765/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Megha706765/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1572-matrix-diagonal-sum](https://github.com/Megha706765/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/Megha706765/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/Megha706765/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Megha706765/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -210,4 +211,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Megha706765/Leetcode/tree/master/0022-generate-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/Megha706765/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
