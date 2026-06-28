@@ -73,6 +73,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Megha706765/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Megha706765/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Megha706765/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Megha706765/Leetcode/tree/master/0268-missing-number) |
@@ -197,6 +198,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Megha706765/Leetcode/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/Megha706765/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Megha706765/Leetcode/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -215,4 +217,8 @@
 |  |
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/Megha706765/Leetcode/tree/master/1572-matrix-diagonal-sum) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Megha706765/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
