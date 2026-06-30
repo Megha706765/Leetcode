@@ -24,6 +24,7 @@
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Megha706765/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/Megha706765/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0999-available-captures-for-rook](https://github.com/Megha706765/Leetcode/tree/master/0999-available-captures-for-rook) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Megha706765/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Megha706765/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Megha706765/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/Megha706765/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -62,6 +63,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/Megha706765/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Megha706765/Leetcode/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/Megha706765/Leetcode/tree/master/0704-binary-search) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Megha706765/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Megha706765/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
@@ -222,6 +224,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/Megha706765/Leetcode/tree/master/0036-valid-sudoku) |
 | [0999-available-captures-for-rook](https://github.com/Megha706765/Leetcode/tree/master/0999-available-captures-for-rook) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Megha706765/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Megha706765/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Combinatorics
 |  |
