@@ -9,6 +9,7 @@
 | [0035-search-insert-position](https://github.com/Megha706765/Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Megha706765/Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Megha706765/Leetcode/tree/master/0041-first-missing-positive) |
+| [0054-spiral-matrix](https://github.com/Megha706765/Leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Megha706765/Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Megha706765/Leetcode/tree/master/0136-single-number) |
 | [0164-maximum-gap](https://github.com/Megha706765/Leetcode/tree/master/0164-maximum-gap) |
@@ -172,6 +173,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Megha706765/Leetcode/tree/master/0054-spiral-matrix) |
 | [0999-available-captures-for-rook](https://github.com/Megha706765/Leetcode/tree/master/0999-available-captures-for-rook) |
 | [1929-concatenation-of-array](https://github.com/Megha706765/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Megha706765/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -223,6 +225,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Megha706765/Leetcode/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/Megha706765/Leetcode/tree/master/0054-spiral-matrix) |
 | [0999-available-captures-for-rook](https://github.com/Megha706765/Leetcode/tree/master/0999-available-captures-for-rook) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Megha706765/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Megha706765/Leetcode/tree/master/1572-matrix-diagonal-sum) |
