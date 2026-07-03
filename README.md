@@ -78,6 +78,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Megha706765/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Megha706765/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Megha706765/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Megha706765/Leetcode/tree/master/0202-happy-number) |
@@ -233,4 +234,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Megha706765/Leetcode/tree/master/0062-unique-paths) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Megha706765/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
