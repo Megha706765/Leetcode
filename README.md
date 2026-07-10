@@ -26,6 +26,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Megha706765/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Megha706765/Leetcode/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Megha706765/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0904-fruit-into-baskets](https://github.com/Megha706765/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Megha706765/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0999-available-captures-for-rook](https://github.com/Megha706765/Leetcode/tree/master/0999-available-captures-for-rook) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Megha706765/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -143,6 +144,7 @@
 | [0242-valid-anagram](https://github.com/Megha706765/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Megha706765/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Megha706765/Leetcode/tree/master/0389-find-the-difference) |
+| [0904-fruit-into-baskets](https://github.com/Megha706765/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Megha706765/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Megha706765/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2351-first-letter-to-appear-twice](https://github.com/Megha706765/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
@@ -255,4 +257,5 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Megha706765/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Megha706765/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Megha706765/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/Megha706765/Leetcode/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
