@@ -27,6 +27,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Megha706765/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Megha706765/Leetcode/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Megha706765/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Megha706765/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/Megha706765/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Megha706765/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0999-available-captures-for-rook](https://github.com/Megha706765/Leetcode/tree/master/0999-available-captures-for-rook) |
@@ -72,6 +73,7 @@
 | [0441-arranging-coins](https://github.com/Megha706765/Leetcode/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/Megha706765/Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Megha706765/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Megha706765/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Megha706765/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Megha706765/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/Megha706765/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
