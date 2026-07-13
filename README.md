@@ -262,6 +262,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Megha706765/Leetcode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Megha706765/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/Megha706765/Leetcode/tree/master/0509-fibonacci-number) |
 ## Sliding Window
 |  |
@@ -278,4 +279,8 @@
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/Megha706765/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Megha706765/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
