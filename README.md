@@ -31,6 +31,7 @@
 | [0904-fruit-into-baskets](https://github.com/Megha706765/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Megha706765/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0999-available-captures-for-rook](https://github.com/Megha706765/Leetcode/tree/master/0999-available-captures-for-rook) |
+| [1331-rank-transform-of-an-array](https://github.com/Megha706765/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Megha706765/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Megha706765/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Megha706765/Leetcode/tree/master/1572-matrix-diagonal-sum) |
@@ -122,6 +123,7 @@
 | [0389-find-the-difference](https://github.com/Megha706765/Leetcode/tree/master/0389-find-the-difference) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Megha706765/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/Megha706765/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [1331-rank-transform-of-an-array](https://github.com/Megha706765/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Megha706765/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Megha706765/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Bucket Sort
@@ -151,6 +153,7 @@
 | [0268-missing-number](https://github.com/Megha706765/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Megha706765/Leetcode/tree/master/0389-find-the-difference) |
 | [0904-fruit-into-baskets](https://github.com/Megha706765/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [1331-rank-transform-of-an-array](https://github.com/Megha706765/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Megha706765/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Megha706765/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2351-first-letter-to-appear-twice](https://github.com/Megha706765/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
