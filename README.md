@@ -85,6 +85,7 @@
 | [0191-number-of-1-bits](https://github.com/Megha706765/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Megha706765/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Megha706765/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0371-sum-of-two-integers](https://github.com/Megha706765/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Megha706765/Leetcode/tree/master/0389-find-the-difference) |
 | [2351-first-letter-to-appear-twice](https://github.com/Megha706765/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Math
@@ -96,6 +97,7 @@
 | [0202-happy-number](https://github.com/Megha706765/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Megha706765/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Megha706765/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0371-sum-of-two-integers](https://github.com/Megha706765/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0441-arranging-coins](https://github.com/Megha706765/Leetcode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Megha706765/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Megha706765/Leetcode/tree/master/0509-fibonacci-number) |
