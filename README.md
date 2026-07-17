@@ -47,6 +47,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Megha706765/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3477-fruits-into-baskets-ii](https://github.com/Megha706765/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Megha706765/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3842-toggle-light-bulbs](https://github.com/Megha706765/Leetcode/tree/master/3842-toggle-light-bulbs) |
 | [3866-first-unique-even-element](https://github.com/Megha706765/Leetcode/tree/master/3866-first-unique-even-element) |
 | [3925-concatenate-array-with-reverse](https://github.com/Megha706765/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
@@ -128,6 +129,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Megha706765/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Megha706765/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Megha706765/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3842-toggle-light-bulbs](https://github.com/Megha706765/Leetcode/tree/master/3842-toggle-light-bulbs) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -161,6 +163,7 @@
 | [2351-first-letter-to-appear-twice](https://github.com/Megha706765/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Megha706765/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Megha706765/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
+| [3842-toggle-light-bulbs](https://github.com/Megha706765/Leetcode/tree/master/3842-toggle-light-bulbs) |
 | [3866-first-unique-even-element](https://github.com/Megha706765/Leetcode/tree/master/3866-first-unique-even-element) |
 ## String
 |  |
@@ -198,6 +201,7 @@
 | [1929-concatenation-of-array](https://github.com/Megha706765/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Megha706765/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3477-fruits-into-baskets-ii](https://github.com/Megha706765/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
+| [3842-toggle-light-bulbs](https://github.com/Megha706765/Leetcode/tree/master/3842-toggle-light-bulbs) |
 | [3925-concatenate-array-with-reverse](https://github.com/Megha706765/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Enumeration
 |  |
