@@ -112,6 +112,7 @@
 | [3099-harshad-number](https://github.com/Megha706765/Leetcode/tree/master/3099-harshad-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Megha706765/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Megha706765/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Megha706765/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Megha706765/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Sorting
 |  |
