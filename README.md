@@ -175,6 +175,7 @@
 | [1513-number-of-substrings-with-only-1s](https://github.com/Megha706765/Leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [2351-first-letter-to-appear-twice](https://github.com/Megha706765/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Megha706765/Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
+| [3856-trim-trailing-vowels](https://github.com/Megha706765/Leetcode/tree/master/3856-trim-trailing-vowels) |
 ## Counting
 |  |
 | ------- |
