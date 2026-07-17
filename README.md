@@ -44,6 +44,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Megha706765/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Megha706765/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Megha706765/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [3024-type-of-triangle](https://github.com/Megha706765/Leetcode/tree/master/3024-type-of-triangle) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Megha706765/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3477-fruits-into-baskets-ii](https://github.com/Megha706765/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Megha706765/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -109,6 +110,7 @@
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Megha706765/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Megha706765/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Megha706765/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
+| [3024-type-of-triangle](https://github.com/Megha706765/Leetcode/tree/master/3024-type-of-triangle) |
 | [3099-harshad-number](https://github.com/Megha706765/Leetcode/tree/master/3099-harshad-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Megha706765/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Megha706765/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -130,6 +132,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Megha706765/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Megha706765/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Megha706765/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3024-type-of-triangle](https://github.com/Megha706765/Leetcode/tree/master/3024-type-of-triangle) |
 | [3842-toggle-light-bulbs](https://github.com/Megha706765/Leetcode/tree/master/3842-toggle-light-bulbs) |
 ## Bucket Sort
 |  |
