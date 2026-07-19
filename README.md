@@ -85,6 +85,7 @@
 | ------- |
 | [0136-single-number](https://github.com/Megha706765/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Megha706765/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Megha706765/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Megha706765/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Megha706765/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/Megha706765/Leetcode/tree/master/0371-sum-of-two-integers) |
@@ -97,6 +98,7 @@
 | [0062-unique-paths](https://github.com/Megha706765/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Megha706765/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Megha706765/Leetcode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Megha706765/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Megha706765/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Megha706765/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Megha706765/Leetcode/tree/master/0371-sum-of-two-integers) |
@@ -276,6 +278,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/Megha706765/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Megha706765/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Megha706765/Leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Megha706765/Leetcode/tree/master/0509-fibonacci-number) |
 ## Sliding Window
 |  |
