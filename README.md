@@ -105,6 +105,7 @@
 | [0441-arranging-coins](https://github.com/Megha706765/Leetcode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Megha706765/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Megha706765/Leetcode/tree/master/0509-fibonacci-number) |
+| [1323-maximum-69-number](https://github.com/Megha706765/Leetcode/tree/master/1323-maximum-69-number) |
 | [1492-the-kth-factor-of-n](https://github.com/Megha706765/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Megha706765/Leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1952-three-divisors](https://github.com/Megha706765/Leetcode/tree/master/1952-three-divisors) |
@@ -198,6 +199,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1323-maximum-69-number](https://github.com/Megha706765/Leetcode/tree/master/1323-maximum-69-number) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Megha706765/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Heap (Priority Queue)
 |  |
