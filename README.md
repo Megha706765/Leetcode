@@ -11,6 +11,7 @@
 | [0036-valid-sudoku](https://github.com/Megha706765/Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Megha706765/Leetcode/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/Megha706765/Leetcode/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/Megha706765/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Megha706765/Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Megha706765/Leetcode/tree/master/0136-single-number) |
 | [0164-maximum-gap](https://github.com/Megha706765/Leetcode/tree/master/0164-maximum-gap) |
@@ -96,6 +97,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/Megha706765/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Megha706765/Leetcode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/Megha706765/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Megha706765/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Megha706765/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Megha706765/Leetcode/tree/master/0231-power-of-two) |
