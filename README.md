@@ -116,6 +116,7 @@
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Megha706765/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Megha706765/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Megha706765/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Megha706765/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3024-type-of-triangle](https://github.com/Megha706765/Leetcode/tree/master/3024-type-of-triangle) |
 | [3099-harshad-number](https://github.com/Megha706765/Leetcode/tree/master/3099-harshad-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Megha706765/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -186,6 +187,7 @@
 | [0389-find-the-difference](https://github.com/Megha706765/Leetcode/tree/master/0389-find-the-difference) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Megha706765/Leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [2351-first-letter-to-appear-twice](https://github.com/Megha706765/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Megha706765/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Megha706765/Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3856-trim-trailing-vowels](https://github.com/Megha706765/Leetcode/tree/master/3856-trim-trailing-vowels) |
 ## Counting
@@ -203,6 +205,7 @@
 | ------- |
 | [1323-maximum-69-number](https://github.com/Megha706765/Leetcode/tree/master/1323-maximum-69-number) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Megha706765/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Megha706765/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
