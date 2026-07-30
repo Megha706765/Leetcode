@@ -306,4 +306,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Megha706765/Leetcode/tree/master/0206-reverse-linked-list) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Megha706765/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
