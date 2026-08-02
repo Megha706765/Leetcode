@@ -61,6 +61,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Megha706765/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0905-sort-array-by-parity](https://github.com/Megha706765/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Megha706765/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Megha706765/Leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Binary Search
 |  |
 | ------- |
@@ -190,6 +191,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Megha706765/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Megha706765/Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3856-trim-trailing-vowels](https://github.com/Megha706765/Leetcode/tree/master/3856-trim-trailing-vowels) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Megha706765/Leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Counting
 |  |
 | ------- |
