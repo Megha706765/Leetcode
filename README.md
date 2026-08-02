@@ -30,6 +30,7 @@
 | [0724-find-pivot-index](https://github.com/Megha706765/Leetcode/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Megha706765/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Megha706765/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0877-stone-game](https://github.com/Megha706765/Leetcode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Megha706765/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Megha706765/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0999-available-captures-for-rook](https://github.com/Megha706765/Leetcode/tree/master/0999-available-captures-for-rook) |
@@ -110,6 +111,7 @@
 | [0441-arranging-coins](https://github.com/Megha706765/Leetcode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Megha706765/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Megha706765/Leetcode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Megha706765/Leetcode/tree/master/0877-stone-game) |
 | [1323-maximum-69-number](https://github.com/Megha706765/Leetcode/tree/master/1323-maximum-69-number) |
 | [1492-the-kth-factor-of-n](https://github.com/Megha706765/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Megha706765/Leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
@@ -258,6 +260,7 @@
 | [0062-unique-paths](https://github.com/Megha706765/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Megha706765/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Megha706765/Leetcode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Megha706765/Leetcode/tree/master/0877-stone-game) |
 ## Memoization
 |  |
 | ------- |
@@ -315,4 +318,8 @@
 | ------- |
 | [0175-combine-two-tables](https://github.com/Megha706765/Leetcode/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Megha706765/Leetcode/tree/master/0176-second-highest-salary) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Megha706765/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
