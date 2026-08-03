@@ -37,6 +37,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Megha706765/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Megha706765/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Megha706765/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1406-stone-game-iii](https://github.com/Megha706765/Leetcode/tree/master/1406-stone-game-iii) |
 | [1572-matrix-diagonal-sum](https://github.com/Megha706765/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/Megha706765/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/Megha706765/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -113,6 +114,7 @@
 | [0509-fibonacci-number](https://github.com/Megha706765/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Megha706765/Leetcode/tree/master/0877-stone-game) |
 | [1323-maximum-69-number](https://github.com/Megha706765/Leetcode/tree/master/1323-maximum-69-number) |
+| [1406-stone-game-iii](https://github.com/Megha706765/Leetcode/tree/master/1406-stone-game-iii) |
 | [1492-the-kth-factor-of-n](https://github.com/Megha706765/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Megha706765/Leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1952-three-divisors](https://github.com/Megha706765/Leetcode/tree/master/1952-three-divisors) |
@@ -261,6 +263,7 @@
 | [0070-climbing-stairs](https://github.com/Megha706765/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Megha706765/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Megha706765/Leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Megha706765/Leetcode/tree/master/1406-stone-game-iii) |
 ## Memoization
 |  |
 | ------- |
@@ -322,4 +325,5 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Megha706765/Leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Megha706765/Leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
