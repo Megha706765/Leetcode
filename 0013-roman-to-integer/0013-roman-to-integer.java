@@ -1,27 +1,27 @@
 class Solution {
     public int romanToInt(String s) {
         int n = s.length();
-        int curr  = 0;
+        int ans = 0;
         for(int i=0; i<n; i++){
-            int ans =0;
-            if(s.charAt(i) == 'I')ans = 1;
-            else if(s.charAt(i) == 'V')ans =  5;
-            else if(s.charAt(i) == 'X')ans = 10;
-            else if(s.charAt(i) == 'L')ans = 50;
-            else if(s.charAt(i) == 'C')ans = 100;
-            else if(s.charAt(i) == 'D')ans = 500;
-            else if(s.charAt(i) == 'M')ans = 1000;
+            int curr = 0;
+            if(s.charAt(i) == 'I')curr = 1;
+            else if(s.charAt(i) == 'I')curr = 1;
+            else if(s.charAt(i) == 'V')curr = 5;
+            else if(s.charAt(i) == 'X')curr = 10;
+            else if(s.charAt(i) == 'L')curr = 50;
+            else if(s.charAt(i) == 'C')curr = 100;
+            else if(s.charAt(i) == 'D')curr = 500;
+            else if(s.charAt(i) == 'M')curr = 1000;
 
-            if(i + 1 < n && ans < getValue(s.charAt(i + 1))){
-                curr = curr - ans;
-            } else{
-                curr = curr + ans;
+            if(i+1 < n && curr < getVal(s.charAt(i+1))){
+                ans = ans - curr;
+            }else{
+                ans = ans + curr;
             }
-
         }
-        return curr;
+        return ans;
     }
-    public int getValue(char ch){
+    public int getVal(char ch){
         if(ch == 'I')return 1;
         if(ch == 'V')return 5;
         if(ch == 'X')return 10;
