@@ -25,6 +25,7 @@
 | [0283-move-zeroes](https://github.com/Megha706765/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Megha706765/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Megha706765/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Megha706765/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Megha706765/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Megha706765/Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Megha706765/Leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -116,6 +117,7 @@
 | [0441-arranging-coins](https://github.com/Megha706765/Leetcode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Megha706765/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Megha706765/Leetcode/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Megha706765/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Megha706765/Leetcode/tree/master/0877-stone-game) |
 | [1323-maximum-69-number](https://github.com/Megha706765/Leetcode/tree/master/1323-maximum-69-number) |
 | [1406-stone-game-iii](https://github.com/Megha706765/Leetcode/tree/master/1406-stone-game-iii) |
@@ -146,6 +148,7 @@
 | [0242-valid-anagram](https://github.com/Megha706765/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Megha706765/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Megha706765/Leetcode/tree/master/0389-find-the-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Megha706765/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Megha706765/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/Megha706765/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1331-rank-transform-of-an-array](https://github.com/Megha706765/Leetcode/tree/master/1331-rank-transform-of-an-array) |
