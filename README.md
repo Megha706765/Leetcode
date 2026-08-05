@@ -107,6 +107,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Megha706765/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Megha706765/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Megha706765/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Megha706765/Leetcode/tree/master/0066-plus-one) |
@@ -177,6 +178,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Megha706765/Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Megha706765/Leetcode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Megha706765/Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Megha706765/Leetcode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Megha706765/Leetcode/tree/master/0169-majority-element) |
@@ -198,6 +200,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Megha706765/Leetcode/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/Megha706765/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Megha706765/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Megha706765/Leetcode/tree/master/0058-length-of-last-word) |
