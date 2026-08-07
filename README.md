@@ -53,6 +53,7 @@
 | [2367-number-of-arithmetic-triplets](https://github.com/Megha706765/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Megha706765/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3024-type-of-triangle](https://github.com/Megha706765/Leetcode/tree/master/3024-type-of-triangle) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Megha706765/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Megha706765/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3477-fruits-into-baskets-ii](https://github.com/Megha706765/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Megha706765/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -139,6 +140,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Megha706765/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3024-type-of-triangle](https://github.com/Megha706765/Leetcode/tree/master/3024-type-of-triangle) |
 | [3099-harshad-number](https://github.com/Megha706765/Leetcode/tree/master/3099-harshad-number) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Megha706765/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Megha706765/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Megha706765/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Megha706765/Leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
