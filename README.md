@@ -71,6 +71,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Megha706765/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Megha706765/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Megha706765/Leetcode/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/Megha706765/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Megha706765/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Megha706765/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Megha706765/Leetcode/tree/master/0344-reverse-string) |
@@ -279,6 +280,7 @@
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Megha706765/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Megha706765/Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Dynamic Programming
 |  |
@@ -321,6 +323,7 @@
 | [0050-powx-n](https://github.com/Megha706765/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Megha706765/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Megha706765/Leetcode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Megha706765/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Megha706765/Leetcode/tree/master/0509-fibonacci-number) |
 ## Sliding Window
 |  |
@@ -341,6 +344,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Megha706765/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Megha706765/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Database
 |  |
 | ------- |
