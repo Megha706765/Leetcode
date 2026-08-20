@@ -37,6 +37,7 @@
 | [0904-fruit-into-baskets](https://github.com/Megha706765/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Megha706765/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0999-available-captures-for-rook](https://github.com/Megha706765/Leetcode/tree/master/0999-available-captures-for-rook) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Megha706765/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Megha706765/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/Megha706765/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Megha706765/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -282,6 +283,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Megha706765/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Megha706765/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Megha706765/Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Dynamic Programming
 |  |
@@ -350,6 +352,7 @@
 | [0234-palindrome-linked-list](https://github.com/Megha706765/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Megha706765/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Megha706765/Leetcode/tree/master/0328-odd-even-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Megha706765/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Database
 |  |
 | ------- |
@@ -384,4 +387,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Megha706765/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/Megha706765/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->
