@@ -127,6 +127,7 @@
 | [0189-rotate-array](https://github.com/Megha706765/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Megha706765/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Megha706765/Leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Megha706765/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Megha706765/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Megha706765/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Megha706765/Leetcode/tree/master/0367-valid-perfect-square) |
@@ -189,6 +190,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Megha706765/Leetcode/tree/master/0258-add-digits) |
 | [1492-the-kth-factor-of-n](https://github.com/Megha706765/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/Megha706765/Leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Megha706765/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -259,6 +261,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Megha706765/Leetcode/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/Megha706765/Leetcode/tree/master/0258-add-digits) |
 | [0999-available-captures-for-rook](https://github.com/Megha706765/Leetcode/tree/master/0999-available-captures-for-rook) |
 | [1929-concatenation-of-array](https://github.com/Megha706765/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Megha706765/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
