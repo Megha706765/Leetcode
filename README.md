@@ -159,6 +159,7 @@
 | [3099-harshad-number](https://github.com/Megha706765/Leetcode/tree/master/3099-harshad-number) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Megha706765/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Megha706765/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Megha706765/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Megha706765/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Megha706765/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Megha706765/Leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
@@ -281,6 +282,7 @@
 | ------- |
 | [1952-three-divisors](https://github.com/Megha706765/Leetcode/tree/master/1952-three-divisors) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Megha706765/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Megha706765/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Geometry
 |  |
 | ------- |
