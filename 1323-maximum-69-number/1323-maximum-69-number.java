@@ -1,11 +1,13 @@
 class Solution {
     public int maximum69Number (int num) {
+        // reverse ke liye use kiya hai
         int rev = 0;
        while(num > 0){
         int ld = num % 10;
         rev = rev * 10 + ld;
         num = num /10;
        }
+       // replace karne le liye use kiya the 6 ko 9 se
        int rev1 = 0;
        int c6 = 0;
        while(rev > 0){
