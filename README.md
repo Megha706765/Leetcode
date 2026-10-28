@@ -46,6 +46,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/Megha706765/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1406-stone-game-iii](https://github.com/Megha706765/Leetcode/tree/master/1406-stone-game-iii) |
 | [1572-matrix-diagonal-sum](https://github.com/Megha706765/Leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [1672-richest-customer-wealth](https://github.com/Megha706765/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Megha706765/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/Megha706765/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Megha706765/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -341,6 +342,7 @@
 | [0999-available-captures-for-rook](https://github.com/Megha706765/Leetcode/tree/master/0999-available-captures-for-rook) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Megha706765/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Megha706765/Leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [1672-richest-customer-wealth](https://github.com/Megha706765/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Combinatorics
 |  |
 | ------- |
